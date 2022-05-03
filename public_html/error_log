@@ -1,0 +1,11 @@
+[01-Apr-2022 00:04:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __construct() in /home/tiendap1/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tiendap1/public_html/index.php on line 3
+[01-Apr-2022 00:04:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __construct() in /home/tiendap1/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tiendap1/public_html/index.php on line 3
+[01-Apr-2022 00:28:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'tiendap1_root'@'btc.v2net.cl' to database 'tiendap1_ecomerce_reglas' in /home/tiendap1/public_html/conexion.php on line 8
+[01-Apr-2022 00:29:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'tiendap1_root'@'btc.v2net.cl' to database 'ecomerce_reglas' in /home/tiendap1/public_html/conexion.php on line 8
+[01-Apr-2022 00:30:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'tiendap1_root'@'btc.v2net.cl' to database 'tiendap1_ecomerce_reglas' in /home/tiendap1/public_html/conexion.php on line 8
